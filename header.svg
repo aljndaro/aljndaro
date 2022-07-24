@@ -52,12 +52,11 @@
       
 				}
 				.normal {
-					color: #0d1117;
-					-webkit-text-stroke: 1px white;
+					color: #f0f3f7;
 				}
 				.heda {
-					background: -webkit-linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
-				  background: linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
+					background: -webkit-linear-gradient(90deg, rgba(170, 51, 106, 1) 0%, rgba(247, 127, 190, 1) 29%, rgba(250, 218, 221, 1) 100%);
+				  background: linear-gradient(90deg, rgba(170,51,106,1) 0%, rgba(247, 127, 190, 1) 29%, rgba(250, 218, 221, 1) 100%);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
