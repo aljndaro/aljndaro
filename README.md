@@ -1,7 +1,7 @@
 
 <h1 align="left">
  <img src="header.svg" alt="hi" />
- <img src="https://skillicons.dev/icons?i=js,gcp,ts,nodejs,react,firebase,discord,cloudflare,bots,express,vscode&perline=10" />
+ <img src="https://skillicons.dev/icons?i=js,gcp,ts,nodejs,firebase,discord,cloudflare,bots,express,vscode&perline=10" />
  <img align="right" src="https://lanyard.cnrad.dev/api/996916060806709379"></img>
 </h1>
 
