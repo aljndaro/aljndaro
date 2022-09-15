@@ -24,7 +24,7 @@ stolen from conrad <3
 				   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
 				  100% { transform: rotate( 0.0deg) }
 				}
-				
+				@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 				@keyframes gradientText {
 				  0% {
 				    background-position: 0% 50%;
@@ -65,7 +65,7 @@ stolen from conrad <3
 				}
 			</style>
 			<h1>
-				<span class="normal">hi there, i'm </span><span class="heda">callum</span> <span class="wave">👋</span>
+				<span class="normal">hiya, i'm </span><span class="heda">valentine</span> <span class="wave">👋</span>
 			</h1>
 		</div>
 	</foreignObject>
