@@ -6,8 +6,6 @@ stolen from conrad <3
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-				
 				.wave {
 				  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
 				  animation-duration: 2.5s;        /* Change to speed up or slow down */
@@ -41,7 +39,8 @@ stolen from conrad <3
 				
 				h1 {
 				  font-family: 
-					'Pacifico', cursive;
+					'Pacifico',
+					cursive; 
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
@@ -66,7 +65,7 @@ stolen from conrad <3
 				}
 			</style>
 			<h1>
-				<span class="normal">hiya, i'm </span><span class="heda">valentine</span> <span class="wave">👋</span>
+				<span class="normal">hi there, i'm </span><span class="heda">callum</span> <span class="wave">👋</span>
 			</h1>
 		</div>
 	</foreignObject>
