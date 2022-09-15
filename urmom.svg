@@ -38,9 +38,7 @@ stolen from conrad <3
 				}
 				
 				h1 {
-				  font-family: 
-					'Pacifico', 
-				"cursive";
+				  font-family: 'Pacifico', cursive;
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
