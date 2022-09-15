@@ -34,7 +34,8 @@
 				
 				h1 {
 				font-family: 
-				'Poppins';
+				'Pacifico',
+				sans-serif;
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
