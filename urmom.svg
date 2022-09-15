@@ -39,8 +39,7 @@ stolen from conrad <3
 				
 				h1 {
 				  font-family: 
-					'Pacifico',
-					cursive; 
+					'Pacifico', 
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
