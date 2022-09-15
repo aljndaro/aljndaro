@@ -1,12 +1,7 @@
-<!-- 
-stolen from conrad <3
--->
-
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 650 85" width="650" height="85" style="/*! background: #0d1117; */">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				
 				.wave {
 				  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
 				  animation-duration: 2.5s;        /* Change to speed up or slow down */
@@ -14,7 +9,6 @@ stolen from conrad <3
 				  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
 				  display: inline-block;
 				}
-
 				@keyframes wave-animation {
 				    0% { transform: rotate( 0.0deg) }
 				   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
@@ -39,7 +33,9 @@ stolen from conrad <3
 				}
 				
 				h1 {
-				  font-family: 'Pacifico', cursive;
+				  font-family: 
+					'Helvetica Neue', 
+					sans-serif;
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
@@ -53,8 +49,8 @@ stolen from conrad <3
 					-webkit-text-stroke: 1px white;
 				}
 				.heda {
-					background: -webkit-linear-gradient(right,#c700ff,#46a0ff);
-				  background: linear-gradient(270deg,#c700ff 0,#46a0ff);
+					background: -webkit-linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
+				  background: linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
@@ -63,8 +59,8 @@ stolen from conrad <3
 				  animation: gradientText 3s ease infinite;
 				}
 			</style>
-			<h1 font-family="Pacifico">
-				<span class="normal">hi there, i'm </span><span class="heda">callum</span> <span class="wave">👋</span>
+			<h1>
+				<span class="normal">hi there, i'm </span><span class="heda">andre</span> <span>🎊</span>
 			</h1>
 		</div>
 	</foreignObject>
