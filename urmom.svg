@@ -49,8 +49,8 @@
 					-webkit-text-stroke: 1px white;
 				}
 				.heda {
-					background: -webkit-linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
-				  background: linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
+					background: -webkit-linear-gradient(90deg, rgba(170, 51, 106, 1) 0%, rgba(245, 88, 135, 1) 29%, rgba(255, 117, 159, 1) 100%);
+				  background: linear-gradient(90deg, rgba(170, 51, 106, 1) 0%, rgba(245, 88, 135, 1) 29%, rgba(255, 117, 159, 1) 100%);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
