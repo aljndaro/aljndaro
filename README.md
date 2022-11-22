@@ -6,4 +6,4 @@
 </h1>
 hey there, i'm alejandro! I'm currently working on aqnitai platform and crouelo platform, also studying to become a full stack engineer.
 
-really chill person. [email me!](mailto:alejandro@aqnitai.app)
+really chill person. [email me!](mailto:aljndaro@aqnitaiapp.xyz)
