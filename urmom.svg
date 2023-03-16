@@ -47,6 +47,7 @@
 				.normal {
 					color: #0d1117;
 					-webkit-text-stroke: 1px white;
+					text-align: center;
 				}
 				.heda {
 					background: -webkit-linear-gradient(90deg, rgba(170, 51, 106, 1) 0%, rgba(245, 88, 135, 1) 29%, rgba(255, 117, 159, 1) 100%);
