@@ -6,4 +6,5 @@
 hello, I'm alejandro (i perfer alex) a full stack web developer! i'm currently working on [ignus](https://ignusapp.com), a custom bot solution for your server on Discord.
 
 im very friendly. [email me!](mailto:me@alejandroc.xyz)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/996916060806709379)](https://discord.com/users/996916060806709379)
