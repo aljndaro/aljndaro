@@ -3,7 +3,7 @@
  <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,firebase,prisma,postgres,ts,js,python,c#" />
  
 </h1>
-Hey there, I'm Alex! I'm a software engineer from the snowy city of Colorado, advancing in NextJS and typescript. I currently manage [![Lyte](https://lyteapp.us). Lyte is a free alternative to BotGhost with an advanced set of features.
+Hey there, I'm Alex! I'm a software engineer from the snowy city of Colorado, advancing in NextJS and typescript. I currently manage Lyte. Lyte is a free alternative to BotGhost with an advanced set of features.
 
 im very friendly. [email me!](mailto:alex@lyteapp.us)
 
