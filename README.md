@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/aljndaro/aljndaro/main/urmom.svg" alt="ratioooo" />
- <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,firebase,prisma,postgres,ts,js,python,angular" />
+ <img src="https://skillicons.dev/icons?i=angular,mongodb,nextjs,firebase,ts,python," />
  
 </h1>
 Hey there, I'm Alex! I'm a software engineer from the snowy city of Colorado, advancing in NextJS and typescript. I currently manage Lyte. Lyte is a free alternative to BotGhost with an advanced set of features.
