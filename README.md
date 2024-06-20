@@ -8,6 +8,6 @@
 mdr @ [lyte](https://github.com/lyteus), lyte allows you to manage your server within a few minutes. we did this so you can get to developing your community whilst not worrying about moderation. with lyte, we take security in your server very serious. therefore, we are going to notify you inside of your DMs when we detect a suspicious audit log in your server. Our bots are easily customizable, allowing you to make your bot fit your needs.
  <br>
 
-full-stack web dev working with [angular](https://angular.io), [nextjs](https://nextjs.org), [express](https://express.com], professional connoisseur of dutch bros .
+full-stack web dev working with [nextjs](https://nextjs.org) and [express](https://express.com) professional connoisseur of dutch bros .
 <br>
 (code taken from [callum](https://github.com/callumisdumb))
