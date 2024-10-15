@@ -1,5 +1,5 @@
 <h1 align="left">
- <img src="https://raw.githubusercontent.com/aljndaro/aljndaro/main/urmom.svg" alt="ratioooo" /> 
+ <img src="https://raw.githubusercontent.com/aljndaro/aljndaro/refs/heads/main/urmom.svg" alt="ratioooo" /> 
  <img src="https://skillicons.dev/icons?i=angular,mongodb,nextjs,firebase,ts,python,js,nodejs,stackoverflow,nestjs,express,csharp" />
  
 </h1>
