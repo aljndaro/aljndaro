@@ -1,6 +1,6 @@
 <h1 align="left">
  <img src="https://raw.githubusercontent.com/aljndaro/aljndaro/refs/heads/main/urmom.svg" alt="ratioooo" /> 
- <img src="https://skillicons.dev/icons?i=angular,mongodb,nextjs,firebase,ts,python,js,nodejs,stackoverflow,nestjs,express,csharp" />
+ <img src="https://skillicons.dev/icons?i=angular,mongodb,nextjs,firebase,ts,python,js,nodejs,stackoverflow,nestjs,express,cs" />
  
 </h1>
 <img align="right" style="padding-bottom:12px;" src="https://lanyard-profile-readme.vercel.app/api/996916060806709379"></img>
